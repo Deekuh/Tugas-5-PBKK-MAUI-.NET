@@ -1,4 +1,4 @@
-# Tugas-5-PBKK-MAUI-.NET
+# Tugas-5-PBKK-MAUI-Hello-World
 
 ### Membuat Aplikasi Hello World menggunakan MAUI .NET
 Nama  : Andhika Lingga Mariano <br/>
